@@ -1,0 +1,29 @@
+.content{
+    display: grid;
+    width: 150px;
+}
+
+.one{
+    display:flex
+}
+
+#name {
+    margin-right: 50px;
+}
+.item {
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: 0.20fr 2em 2em 2em 2em;
+    margin-bottom: 0.667em;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+  }
+
+.st {
+    display: flex;
+}
+.do {
+    margin-left: 10px;
+}
+/*<img src="img/edit.png" style="height: 25px; width: 20px;" class="edite" id ="edit">

@@ -1,0 +1,49 @@
+#plus:focus {
+    vertical-align: middle;
+    background-color: rgba(237, 19, 19, 0.51);
+    
+}
+#minus:focus {
+    vertical-align: middle;
+    background-color: rgba(237, 19, 19, 0.51);
+    
+}
+#times:focus {
+    vertical-align: middle;
+    background-color: rgba(237, 19, 19, 0.51);
+    
+}
+#divide:focus {
+    vertical-align: middle;
+    background-color: rgba(237, 19, 19, 0.51);
+    
+}
+#result {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(215, 217, 218) ;
+    border-radius: 25%;
+    height: 100px;
+    width: 100px;
+
+    
+
+}
+.aer {
+    display: flex;
+    
+}
+#operator_btns{
+    display: grid;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#w {
+    margin-top: 30px;
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}

@@ -1,0 +1,32 @@
+{
+    "card_one": {
+        "zog": "Student",
+        "opis": "Только Студенты",
+        "coin": 2200
+    },
+    "card_two": {
+        "zog": "Student2",
+        "opis": "Только Студенты 256",
+        "coin": 2280
+    },
+    "card_three": {
+        "zog": "Student3",
+        "opis": "Только Студенты 45",
+        "coin": 2290
+    },
+    "card_fo": {
+        "zog": "Student",
+        "opis": "Только Студенты",
+        "coin": 2200
+    },
+    "card_fife": {
+        "zog": "Student2",
+        "opis": "Только Студенты 256",
+        "coin": 2280
+    },
+    "card_6": {
+        "zog": "Student3",
+        "opis": "Только Студенты 45",
+        "coin": 2290
+    }
+}
